@@ -1,0 +1,17 @@
+:root {
+  --razberry: #e50f5c;
+  --violet: #9406a3;
+  --russian-violet: #280640;
+  --sea-serpent: #53c5dd;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: medium;
+}
+
+.h1 {
+  font-family: "Big Shoulders Display", cursive;
+  -webkit-text-stroke: 4px;
+  font-size: large;
+}
